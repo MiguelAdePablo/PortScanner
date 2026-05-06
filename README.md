@@ -69,9 +69,9 @@ This script uses only two external packages (not part of Python’s standard lib
 ![](./Images/Screenshot.png)
 (*Ip Adresses hidden in the capture*)
 
-# Stopping the Server
+# Stopping the Scan
 
-- Click the `⏹ Stop Server` button in the GUI, or
+- Click the `⏹ Stop Scan` button in the GUI, or
 - Close the application window
   (The server shuts down cleanly in both cases)
 
